@@ -184,6 +184,7 @@ a:hover {
     color: #000000;
     background: #4ca1af;
     cursor: pointer;
+    transition: .5s;
 }
 
 /* Section D / Boxes */
